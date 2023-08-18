@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is a WIP of learning to use GitHub.
 <!--
 **p-landers/p-landers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
